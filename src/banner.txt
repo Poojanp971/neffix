@@ -1,0 +1,13 @@
+style={
+    {
+        backgroundSize: "cover",
+        BackgroundImage: `url(
+            'https://image.tmdb.org/t/p/original/${movie?.poster_path}'
+            
+        )` ,
+        //enter the tmdb poster link in url above
+        //https://images8.alphacoders.com/108/thumb-1920-1081458.jpg
+        //""
+        backgroundPosition: "center center",
+    } 
+}
